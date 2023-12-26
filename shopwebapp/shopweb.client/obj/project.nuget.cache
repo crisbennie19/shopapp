@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5IZIi8PSan7KSYASGxc8phFY96iF4PMjaAJte9nP/U/iCO2LuK4BdTz91nWfVtr9jtyjnkyFXIr+QAgRSnfDvQ==",
+  "dgSpecHash": "qGOW6u9ZHfUKlJZo0HxVq5pmq/9Aau/scaAteOPcYHSvFp1uKVyVwBS0UQcZyAqB7UV7qAz98+qrRyBYj7nl9Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\source\\repos\\shopapp\\shopwebapp\\shopweb.client\\shopweb.client.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
   "logs": []
 }
